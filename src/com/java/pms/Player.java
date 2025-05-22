@@ -2,7 +2,7 @@ package com.java.pms;
 
 public class Player {
 	
-	private String name;
+    private String name;
     private int jersey_num;
     private int no_of_matches;
     private int runs;
